@@ -26,4 +26,6 @@ Na interface gráfica:
 Requisitos
 
   Python 3.x
+
+
   Tkinter (geralmente incluído na instalação padrão do Python)
